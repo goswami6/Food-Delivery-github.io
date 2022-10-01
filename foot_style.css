@@ -64,7 +64,7 @@
 }
 #home::before{
     content: "";
-    background: url('../bg1.jpeg') no-repeat center center/cover;
+    background: url('../food websit/bg1.jpeg') no-repeat center center/cover;
     position: absolute;
     height: 100%;
     top: 0px;
